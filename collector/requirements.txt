@@ -1,5 +1,5 @@
 about-time==4.2.1
-aiohttp==3.8.4
+aiohttp==3.9.2
 aiosignal==1.3.1
 alive-progress==3.1.2
 anyio==3.7.0
@@ -10,13 +10,13 @@ attrs==23.1.0
 backoff==2.2.1
 beautifulsoup4==4.12.2
 bs4==0.0.1
-certifi==2023.5.7
+certifi==2023.7.22
 cffi==1.15.1
 chardet==5.1.0
 charset-normalizer==3.1.0
 click==8.1.3
 commonmark==0.9.1
-cryptography==41.0.1
+cryptography==42.0.4
 cssselect==1.2.0
 dataclasses-json==0.5.7
 Deprecated==1.2.14
@@ -34,7 +34,7 @@ importlib-metadata==6.6.0
 importlib-resources==5.12.0
 install==1.3.5
 joblib==1.2.0
-langchain==0.0.189
+langchain==0.1.0
 lxml==4.9.2
 Markdown==3.4.3
 marshmallow==3.19.0
@@ -53,7 +53,7 @@ packaging==23.1
 pandas==1.5.3
 parse==1.19.0
 pdfminer.six==20221105
-Pillow==9.5.0
+Pillow==10.3.0
 prompt-toolkit==1.0.14
 pycparser==2.21
 pydantic==1.10.8
@@ -207,7 +207,7 @@ typer==0.9.0
 typing-inspect==0.9.0
 typing_extensions==4.6.3
 unstructured==0.7.1
-urllib3==1.26.16
+urllib3==1.26.18
 uuid==1.30
 w3lib==2.1.1
 wcwidth==0.2.6
